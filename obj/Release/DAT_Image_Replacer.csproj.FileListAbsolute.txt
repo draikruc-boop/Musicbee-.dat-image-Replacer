@@ -1,0 +1,5 @@
+/workspaces/Musicbee-.dat-image-Replacer/dist/DAT_Image_Replacer.exe
+/workspaces/Musicbee-.dat-image-Replacer/dist/DAT_Image_Replacer.pdb
+/workspaces/Musicbee-.dat-image-Replacer/obj/Release/DAT_Image_Replacer.csproj.CoreCompileInputs.cache
+/workspaces/Musicbee-.dat-image-Replacer/obj/Release/DAT_Image_Replacer.exe
+/workspaces/Musicbee-.dat-image-Replacer/obj/Release/DAT_Image_Replacer.pdb

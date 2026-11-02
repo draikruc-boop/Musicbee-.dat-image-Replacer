@@ -1,0 +1,53 @@
+{
+  "format": 1,
+  "restore": {
+    "/workspaces/Musicbee-.dat-image-Replacer/DAT_Image_Replacer.csproj": {}
+  },
+  "projects": {
+    "/workspaces/Musicbee-.dat-image-Replacer/DAT_Image_Replacer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/workspaces/Musicbee-.dat-image-Replacer/DAT_Image_Replacer.csproj",
+        "projectName": "DAT_Image_Replacer",
+        "projectPath": "/workspaces/Musicbee-.dat-image-Replacer/DAT_Image_Replacer.csproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/Musicbee-.dat-image-Replacer/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "UsingMicrosoftNETSdk": false,
+        "configFilePaths": [
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "framework": "net48",
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "framework": "net48",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies.net48": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
